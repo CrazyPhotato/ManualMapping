@@ -1,0 +1,14 @@
+﻿  LoaderMain.cpp
+C:\Users\USER\Desktop\ManualMap_Loader\ManualMap_Loader\ManualMap_Loader\LoaderMain.cpp(36,24): warning C4101: 'delta' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\ManualMap_Loader\ManualMap_Loader\ManualMap_Loader\LoaderMain.cpp(35,18): warning C4101: 'count' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\ManualMap_Loader\ManualMap_Loader\ManualMap_Loader\LoaderMain.cpp(35,11): warning C4101: 'index' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\ManualMap_Loader\ManualMap_Loader\ManualMap_Loader\LoaderMain.cpp(38,12): warning C4101: 'ptr' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\ManualMap_Loader\ManualMap_Loader\ManualMap_Loader\LoaderMain.cpp(39,11): warning C4101: 'list' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\ManualMap_Loader\ManualMap_Loader\ManualMap_Loader\LoaderMain.cpp(164,21): warning C4101: 'NumWritten' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\ManualMap_Loader\ManualMap_Loader\ManualMap_Loader\LoaderMain.cpp(165,12): warning C4101: 'hFile' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\ManualMap_Loader\ManualMap_Loader\ManualMap_Loader\LoaderMain.cpp(164,11): warning C4101: 'FileSize' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 117 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  ManualMap_Loader.vcxproj -> C:\Users\USER\Desktop\ManualMap_Loader\ManualMap_Loader\Release\ManualMap_Loader.exe
